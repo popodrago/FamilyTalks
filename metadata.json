@@ -1,0 +1,5 @@
+{
+  "name": "OneTalk",
+  "description": "A simple and modern family chat application with real-time messaging and authentication.",
+  "requestFramePermissions": []
+}
