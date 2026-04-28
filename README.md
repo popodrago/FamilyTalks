@@ -2,7 +2,7 @@
 
 This contains everything you need to the app locally.
 
-View the app in AI Studio: https://ai.studio/apps/e4898718-6f00-44a2-8430-e2cc34bc5881
+View the app: https://popodrago.github.io/FamilyTalks/
 
 ## Run Locally
 
